@@ -1,39 +1,37 @@
 {
   "project_info": {
-    "project_number": "171050319695",
-    "firebase_url": "https://phonegap-plugin-push-sam-e011d.firebaseio.com",
-    "project_id": "phonegap-plugin-push-sam-e011d",
-    "storage_bucket": "phonegap-plugin-push-sam-e011d.appspot.com"
+    "project_number": "857949357940",
+    "firebase_url": "https://cognitips.firebaseio.com",
+    "project_id": "cognitips",
+    "storage_bucket": "cognitips.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:171050319695:android:b71f283f00051af4",
+        "mobilesdk_app_id": "1:857949357940:android:a16c455a683223e2",
         "android_client_info": {
-          "package_name": "es.phonegap.push.sample"
+          "package_name": "com.pgpush.cognitips"
         }
       },
       "oauth_client": [
         {
-          "client_id": "171050319695-h490j8i2ibh8ldnrjqnfibfacrj8bp4n.apps.googleusercontent.com",
+          "client_id": "857949357940-d9q38fd4dihv3g8vv7c1seutkapsvhlb.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBwleqlZJkCiNb4C1FpKforrtx6IzlANKw"
+          "current_key": "AIzaSyCjOmXv9LwgjqcRJ0CGypUHyzDHfxGkXVw"
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857949357940-d9q38fd4dihv3g8vv7c1seutkapsvhlb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
